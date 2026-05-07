@@ -1,4 +1,4 @@
-# prueba para que se desplieugue algo 11
+# prueba para que se desplieugue algo : Version 1.0.0.1
 replicaCount: 1
 image:
   repository: ghcr.io/vachocalla/sintv3-app
