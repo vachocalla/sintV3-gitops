@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ghcr.io/vachocalla/sintv3-app
   pullPolicy: Always
-  tag: "f6b13d4" #latest
+  tag: "5b91738" #latest
 
 service:
   type: ClusterIP
